@@ -1,0 +1,45 @@
+header {
+    height: 100px;
+    width: 100%;
+    background: grey;
+}
+
+header p {
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 34px;
+}
+
+#main_body {
+    height: 500px;
+    width: 500px;
+    background-color: khaki;
+    margin: 0 auto;
+    border: 3px double black;
+}
+
+#line-1 {
+    height: 200px;
+    width: 100%;
+    background-color: red;
+}
+
+#line-2 {
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+
+.line1images {
+    height: 200px;
+    width: 33.333%;
+    float: left;
+}
+
+.line2images {
+    height: 200px;
+    width: 50%;
+    float: left;
+}
